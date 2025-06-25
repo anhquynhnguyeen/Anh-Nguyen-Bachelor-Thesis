@@ -59,7 +59,7 @@ Random Oversampling
 
 <br>
 
-## Case Study
+## Results Format
 
 The results of the models in the .ipynb file are similar to the result of Case Study below, which consists of various metrics and accuracy:
 
